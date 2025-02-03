@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="Logo-Text/Light/logo-text-light.png#gh-dark-mode-only" height="100">
-    <img src="Logo-Text/Dark/logo-text-dark.png#gh-light-mode-only" height="100">
+    <img src="Logo-Text/Light/logo-text-light.png#gh-light-mode-only" height="100">
+    <img src="Logo-Text/Dark/logo-text-dark.png#gh-dark-mode-only" height="100">
     <hr />
     <p>This is the official branding for the GoUp! project.</p>
 </div>
