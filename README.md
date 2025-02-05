@@ -11,4 +11,12 @@ For both of the logos, [Poppins](https://fonts.google.com/specimen/Poppins) is u
 
 ## Colors
 
-The colors used in the logos are:
+The color palette:
+
+![Color Palette](Palette.png)
+
+This includes the following colors:
+
+- #1D1719 (Licorice)
+- #2ABFC4 (Robin egg blue)
+- #F6F8EA (Ivory)
